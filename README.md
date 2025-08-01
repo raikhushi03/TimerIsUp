@@ -11,7 +11,7 @@ https://c9zzql1h-5173.inc1.devtunnels.ms/
 💨 Tailwind CSS (Utility-first styling)
 
 
-<h2>Gettimg started</h2>
+<h2>Getting started</h2>
 # Clone the repository
 git clone https://github.com/raikhushi03/TimerIsUp.git
 
