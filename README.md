@@ -2,7 +2,7 @@
 TimerIsUp is a simple and responsive timer web app built using React and Vite, with styling powered by Tailwind CSS. It allows users to start, stop, and reset a timer—perfect for productivity tracking, workouts, study sessions, or casual countdowns.
 
 
-<h2>Here's a live demo:</h2>
+#<h2>Here's a live demo:</h2>
 https://c9zzql1h-5173.inc1.devtunnels.ms/
 
 <h3>🛠️ Tech Stack</h3>
